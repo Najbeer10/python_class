@@ -7,4 +7,4 @@ for i in numbers:
 
 print(odd)
 
-a = 120
+a = 12
